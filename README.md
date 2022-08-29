@@ -1,4 +1,4 @@
-# MV-Reccomendation-system
+# MV-Recommendation-system
 
 Recommender systems encompass a class of techniques and algorithms that can suggest “relevant” items to users. They predict future behavior based on past data through a multitude of techniques including matrix factorization.
 Machine learning algorithms in recommender systems typically fit into two categories: content-based systems and collaborative filtering systems. 
